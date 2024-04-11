@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Mustaf Abubakar
 
-I’m a **Full-Stack Web Developer & AI Engineer** from Somalia, passionate about crafting **scalable, secure, and intelligent** digital solutions.  
+I’m a **Full-Stack Web Developer & AI Engineer** from Somalia, passionate about creating **scalable, secure, and intelligent** digital solutions.  
 My work spans **web development, AI, and cybersecurity**, combining technology and innovation to solve real-world problems.
 
 🌐 [mustafabubakar.com](https://mustafabubakar.com)  
