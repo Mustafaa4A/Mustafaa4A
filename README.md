@@ -11,4 +11,4 @@ My work spans **web development, AI, and cybersecurity**, combining technology a
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaa44A&layout=compact&theme=tokyonight&langs_count=10)]  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaa4A&layout=compact&theme=tokyonight&langs_count=10)
