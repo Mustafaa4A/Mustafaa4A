@@ -1,15 +1,14 @@
 # 👋 Hello, I’m Mustaf Abubakar
 
-I’m a Full-Stack Web Developer & AI Engineer from Somalia, passionate about building **fast, scalable, and intelligent** digital solutions — from sleek user interfaces to robust backend systems.  
-I also have a strong interest in AI, natural language processing, and cybersecurity.
+I’m a **Full-Stack Web Developer & AI Engineer** from Somalia, passionate about creating **scalable, secure, and intelligent** digital solutions.  
+My work spans **web development, AI, and cybersecurity**, combining technology and innovation to solve real-world problems.
 
+🌐 [mustafabubakar.com](https://mustafabubakar.com)  
+📧 [hello@mustafabubakar.com](mailto:hello@mustafabubakar.com)  
+📍 Mogadishu, Somalia (UTC+3)
 
-## 📫 Get in Touch
-
-- 📧 Email: hello@mustafabubakar.com 
-- 📞 WhatsApp: +252 61 935 5938
-- 🌍 Based in Mogadishu, Somalia (UTC+3)
 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaa44A&layout=compact&theme=tokyonight&langs_count=10)  
