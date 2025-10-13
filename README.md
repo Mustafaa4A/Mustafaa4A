@@ -10,4 +10,4 @@ My work spans **web development, AI, and cybersecurity**, combining technology a
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark)
