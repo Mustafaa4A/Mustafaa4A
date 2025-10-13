@@ -6,9 +6,9 @@ I also have a strong interest in AI, natural language processing, and cybersecur
 
 ## 📫 Get in Touch
 
-- 📧 Email: hello@mustafabubakar.com :contentReference[oaicite:3]{index=3}  
-- 📞 WhatsApp: +252 61 935 5938 :contentReference[oaicite:4]{index=4}  
-- 🌍 Based in Mogadishu, Somalia (UTC+3) :contentReference[oaicite:5]{index=5}  
+- 📧 Email: hello@mustafabubakar.com 
+- 📞 WhatsApp: +252 61 935 5938
+- 🌍 Based in Mogadishu, Somalia (UTC+3)
 
 
 
