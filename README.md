@@ -8,3 +8,7 @@ My work spans **web development, AI, and cybersecurity**, combining technology a
 📍 Mogadishu, Somalia (UTC+3)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark&t=33)](https://github.com/Mustafaa4A)
+
+<div align="center">
+  <img src="https://user-badge.committers.top/somalia_private/Dhaqane-00.svg" />
+</div>
