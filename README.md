@@ -9,7 +9,7 @@ My work spans **web development, AI, and cybersecurity**, combining technology a
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark&t=33)](https://github.com/Mustafaa4A)
 
- [![GitHub Streak](https://user-badge.committers.top/somalia_private/Mustafaa4A)](https://github.com/Mustafaa4A)
+ [![GitHub Streak](https://user-badge.committers.top/somalia_private/Mustafaa4A.svg)](https://github.com/Mustafaa4A)
 
  
  
