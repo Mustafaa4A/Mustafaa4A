@@ -7,7 +7,7 @@ My work spans **web development, AI, and cybersecurity**, combining technology a
 📧 [hello@mustafabubakar.com](mailto:hello@mustafabubakar.com)  
 📍 Mogadishu, Somalia (UTC+3)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark&t=6232)](https://github.com/Mustafaa4A)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa4a&theme=dark&t=62321)](https://github.com/Mustafaa4A)
 
  [![GitHub Streak](https://user-badge.committers.top/somalia_private/Mustafaa4A.svg)](https://github.com/Mustafaa4A)
 
