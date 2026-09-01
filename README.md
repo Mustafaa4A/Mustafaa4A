@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer · AI Engineer · Junior Cybersecurity Engineer**
 
-I design and build **scalable, secure, and intelligent** digital products — from polished web apps and APIs to AI-assisted systems, with a growing focus on **defensive security, network basics, and hands-on cyber tools**.
+I design and build **scalable, secure, and intelligent** digital products — from polished web apps and APIs to AI-assisted systems, with a growing focus on **defensive security, network basics, and hands-on cyber tools**. Open to collaboration on secure fullstack products across East Africa and beyond.
 
 🌐 [mustafabubakar.com](https://mustafabubakar.com) · 📧 [hello@mustafabubakar.com](mailto:hello@mustafabubakar.com) · 📍 Mogadishu, Somalia (UTC+3)
 
