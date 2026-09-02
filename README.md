@@ -31,6 +31,12 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 - **AI & language tech** — speech, agents, and practical ML integrations
 - **Junior cybersecurity** — Kali tooling, networking basics, OWASP-minded testing
 
+### Currently learning / building
+
+- Hardening APIs and applying OWASP Top 10 checks in real projects
+- Deeper Oracle / Linux operations for enterprise environments
+- Shipping polished portfolio case studies on [mustafabubakar.com](https://mustafabubakar.com)
+
 ## Tech Stack
 
 ### Languages
