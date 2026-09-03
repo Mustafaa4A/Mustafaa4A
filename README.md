@@ -179,6 +179,12 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 
 [![Top Somali Contributor](https://user-badge.committers.top/somalia_private/Mustafaa4A.svg)](https://github.com/Mustafaa4A)
 
+## Currently
+
+- Building secure, production-ready fullstack features for Kaabeup & Waagefaal
+- Strengthening junior cybersecurity skills in authorized lab environments
+- Writing and shipping practical engineering work from Mogadishu, Somalia
+
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mustafabubakar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafabubakar.com)
@@ -187,4 +193,4 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 
 ---
 
-<!-- Profile README · Mustaf Abubakar · Full-Stack · AI · Junior Cybersecurity -->
+<!-- Profile README · Mustaf Abubakar · Full-Stack · AI · Junior Cybersecurity · Sep 2026 -->
