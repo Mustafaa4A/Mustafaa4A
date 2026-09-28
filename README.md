@@ -165,6 +165,12 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 ## GitHub stats
 
 <p align="center">
+  <a href="https://github.com/Mustafaa4A">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafaa4A&theme=tokyo-night&hide_border=true" alt="Mustaf Abubakar's GitHub contribution activity graph" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustafaa4A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafaa4A&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
