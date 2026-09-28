@@ -185,6 +185,12 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 - Strengthening junior cybersecurity skills in authorized lab environments
 - Writing and shipping practical engineering work from Mogadishu, Somalia
 
+## September 2026
+
+- September 15
+- September 25
+- September 28
+
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mustafabubakar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafabubakar.com)
