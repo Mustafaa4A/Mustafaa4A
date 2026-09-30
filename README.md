@@ -198,6 +198,7 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 - September 25
 <!-- profile: 2026-09-25 -->
 - September 27
+- September 30
 
 ## Connect
 
