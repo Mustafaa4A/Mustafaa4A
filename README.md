@@ -200,6 +200,10 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 - September 27
 - September 30
 
+## October 2026
+
+- October 1
+
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mustafabubakar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafabubakar.com)
