@@ -203,6 +203,7 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 ## October 2026
 
 - October 1
+- October 2
 
 ## Connect
 
