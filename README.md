@@ -194,9 +194,7 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 ## September 2026
 
 - September 15
-<!-- profile: 2026-09-15 -->
 - September 25
-<!-- profile: 2026-09-25 -->
 - September 27
 - September 30
 
@@ -204,6 +202,7 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 
 - October 1
 - October 2
+- October 3
 
 ## Connect
 
@@ -213,4 +212,4 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 
 ---
 
-<!-- Profile README · Mustaf Abubakar · Full-Stack · AI · Junior Cybersecurity · Sep 2026 -->
+<!-- Profile README · Mustaf Abubakar · Full-Stack · AI · Junior Cybersecurity · Sep–Oct 2026 -->
