@@ -184,32 +184,4 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 </p>
 
 [![Top Somali Contributor](https://user-badge.committers.top/somalia_private/Mustafaa4A.svg)](https://github.com/Mustafaa4A)
-
-## Currently
-
-- Building secure, production-ready fullstack features for Kaabeup & Waagefaal
-- Strengthening junior cybersecurity skills in authorized lab environments
-- Writing and shipping practical engineering work from Mogadishu, Somalia
-
-## September 2026
-
-- September 15
-- September 25
-- September 27
-- September 30
-
-## October 2026
-
-- October 1
-- October 2
-- October 3
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mustafabubakar.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafabubakar.com)
-[![Email](https://img.shields.io/badge/Email-hello%40mustafabubakar.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mustafabubakar.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mustafaa4A-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafaa4A)
-
 ---
-
-<!-- Profile README · Mustaf Abubakar · Full-Stack · AI · Junior Cybersecurity · Sep–Oct 2026 -->
