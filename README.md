@@ -42,7 +42,7 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 
 | Date | Focus |
 | --- | --- |
-| **8 Oct** | SOM-CIRT CTI platform — incident submission flow and i18n labels |
+| **8 Oct** | SOM-CIRT CTI — submit incident UX (TLP/classification, i18n category & severity, national submissions) |
 | **11 Oct** | Analyst queue and submission list UX (datatable, detail sidebar) |
 | **13 Oct** | Incident review layout — workflow history and action modals |
 | **23 Oct** | Publish path, TAXII collections, and sharing release wiring |
