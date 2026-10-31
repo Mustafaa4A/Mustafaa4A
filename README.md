@@ -34,6 +34,7 @@ As a **Junior Cybersecurity Engineer**, I am building practical skills in reconn
 ### Currently learning / building
 
 - Hardening APIs and applying OWASP Top 10 checks in real projects
+- Building privacy-preserving CTI workflows for national incident response (SOM-CIRT)
 - Deeper Oracle / Linux operations for enterprise environments
 - Shipping polished portfolio case studies on [mustafabubakar.com](https://mustafabubakar.com)
 
